@@ -1,2 +1,5 @@
 .venv
-SinhalaBERTV1
+model/
+*.bin
+*.safetensors
+*.pt
